@@ -10,8 +10,10 @@ To use, solder a 1x20 pin socket on the inside and a 1x20 pin header on the outs
 
 ![image1](image/picoski1.png)
 ![image2](image/picoski2.png)
+![image3](image/picoski3.jpg)
+![image4](image/picoski4.jpg)
 
-## How to order boards using gerber data
+## How to order boards using garber data
 
 * zip garber-rev1 directory
 * Upload zip to [JLCPCB](https://jlcpcb.com/) and order.
